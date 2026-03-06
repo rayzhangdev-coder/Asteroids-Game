@@ -1,6 +1,6 @@
 # Asteroids Game
 
-**Contributors:** [Ray Zhang](https://github.com/rayzhangdev-coder) and [Gitan Mandell](https://github.com/GitanElyon)
+**Contributors:** [Ray Zhang](https://github.com/rayzhangdev-coder) and [Gitan Mandell](https://github.com/GitanElyon) | **Note:** This project was done in October, this is a late post.
 
 A feature-rich recreation of the classic arcade shooter built in Java with customized with acceleration physics, collision detection, and randomized asteroid spawning.<br>
 Developed from scratch using OOP principles of inheritance & composition. UML Diagram attached below.
