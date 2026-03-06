@@ -7,7 +7,7 @@ Developed from scratch using OOP principles of inheritance & composition. UML Di
 ![Game Preview](https://github.com/rayzhangdev-coder/Asteroids-Game/blob/main/AsteroidsImage.png?raw=true)
 ![UML Diagram](https://github.com/rayzhangdev-coder/Asteroids-Game/blob/main/UML-Diagram-Asteroids.png?raw=true)
 
-### 🕹️ Game Logic & Mechanics
+### Game Logic & Mechanics
 
 The game operates on a progressive wave system where survival requires both precision shooting and strategic movement.
 
@@ -28,7 +28,7 @@ The game gets progressively harder as the asteroid count and size variety increa
 
 ---
 
-### 🎵 Custom Music
+### Custom Music
 
 The game features a built-in music player that adds an atmospheric layer to the gameplay.
 
@@ -38,7 +38,7 @@ The game features a built-in music player that adds an atmospheric layer to the 
 
 ---
 
-### 💻 Setting up with Eclipse
+### Setting up with Eclipse
 
 Since this project includes `.project` and `.classpath` files, it is optimized for the Eclipse IDE.
 
