@@ -2,7 +2,8 @@
 
 **Contributors:** [Ray Zhang](https://github.com/rayzhangdev-coder) and [Gitan Mandell](https://github.com/GitanElyon)
 
-A feature-rich recreation of the classic arcade shooter built in Java, featuring wave-based progression, dynamic difficulty scaling, and a unique power-up system.
+A feature-rich recreation of the classic arcade shooter built in Java with customized with acceleration physics, collision detection, and randomized asteroid spawning.<br>
+Developed from scratch using OOP principles of inheritance & composition. UML Diagram attached below.
 ![Game Preview](https://github.com/rayzhangdev-coder/Asteroids-Game/blob/main/AsteroidsImage.png?raw=true)
 ![UML Diagram](https://github.com/rayzhangdev-coder/Asteroids-Game/blob/main/UML-Diagram-Asteroids.png?raw=true)
 
